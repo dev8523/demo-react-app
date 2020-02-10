@@ -7,5 +7,5 @@ React is uni-directional not bi-directional.
 
 # To use this App
 1. Clone this using "git clone " or download it.
-2. Do "npm install" into this folder.
-3. To run the application: Do "npm start".
+2. Do "npm install" into the folder.
+3. To run the application: use "npm start".
