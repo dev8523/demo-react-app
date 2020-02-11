@@ -5,7 +5,7 @@ Here we will show A's state and transfer it to component B and will transfer B's
 # Note
 React is uni-directional not bi-directional.
 
-# To use this App
+# To use this App:
 1. Clone this using "git clone " or download it.
 2. Do "npm install" into the folder.
 3. To run the application: use "npm start".
